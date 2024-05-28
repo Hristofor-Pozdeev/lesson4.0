@@ -7,4 +7,3 @@ elif b > a:
     print("b больше чем a")
 else:
     print("a и b равны")
-
